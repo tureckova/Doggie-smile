@@ -6,3 +6,5 @@ This project involves the application for automatic photography of the dogs. It 
 The program is writen in c++ and uses openCV 3.3.0 and dLib v19.4 libraries.
 
 To run the program download all models and sounds and put them into the same folder as the cpp file.
+
+The video on my YouTube channel: https://youtu.be/g2TpWr6me1w demonstrates the functionality of the program.
