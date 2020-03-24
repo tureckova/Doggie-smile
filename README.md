@@ -7,4 +7,6 @@ The program is writen in c++ and uses openCV 3.3.0 and dLib v19.4 libraries.
 
 To run the program download all models and sounds and put them into the same folder as the cpp file.
 
+All the model files are available for download here: https://owncloud.cesnet.cz/index.php/s/BVztkBZghpENjDu
+
 The video on my YouTube channel: https://youtu.be/g2TpWr6me1w demonstrates the functionality of the program.
