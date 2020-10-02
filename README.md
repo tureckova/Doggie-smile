@@ -1,4 +1,5 @@
 # Doggie-smile
+#Interesting Project 
 Computer Vision for Faces - Final project
 
 This project involves the application for automatic photography of the dogs. It detects dogs in the video stream and atracts their attention. The quality of the image is automatically evaluated and accepted only if all the dogs in the picture are looking on camera.
